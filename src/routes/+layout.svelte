@@ -9,6 +9,8 @@
 		<a href="/domov" class={$page.url.pathname === '/domov' ? 'font-bold' : ''}>domov</a>
 		<a href="/trgovina" class={$page.url.pathname === '/trgovina' ? 'font-bold' : ''}>trgovina</a>
 		<a href="/todo" class={$page.url.pathname === '/todo' ? 'font-bold' : ''}>Zadolžitve</a>
+		<a href="/strasila" class={$page.url.pathname === '/strasila' ? 'font-bold' : ''}>Strasila</a>
+		<a href="/besede" class={$page.url.pathname === '/besede' ? 'font-bold' : ''}>Besede</a>
 	</div>
 </nav>
 
